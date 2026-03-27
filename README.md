@@ -46,9 +46,9 @@ npm run dev
 
 ---
 
-🔗 Frontend Repository
+🔗 Backend Repository
 
-Frontend application is available here:
+Backend application is available here:
 -  https://github.com/Manfarisi/taskManager_api
 
 
